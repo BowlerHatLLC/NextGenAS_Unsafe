@@ -1,5 +1,7 @@
 # NextGenAS Unsafe
 
+*Note: This project is no longer under active development. Use at your own risk.*
+
 Utilities for manipulating untyped JavaScript objects in ActionScript. The ActionScript Virtual Machine always verifies types at runtime, but when ActionScript is transpiled to JavaScript, there are ways to break out of the compile-time type system at run-time.
 
 ## Unsafe.cast()
